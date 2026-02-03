@@ -8,6 +8,11 @@ header{
     width:100vw;
     border:5px #F5F5F5 solid;
 }
+main h3{
+    position:absolute;
+    left:5vw;
+    top:10vw;
+}
 nav a{
     text-decoration:none;
 }
@@ -35,11 +40,11 @@ header h1{
 footer{
     background-color: black;
     color:white;
-    height:10vw;
+    height:0vh;
     display:flex;
     justify-content:center;
     align-items:center;
-    font-size:30px;
+    font-size:15px;
 }
 .logo{
     display:flex;
