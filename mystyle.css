@@ -32,7 +32,7 @@ header h1{
     left:10vw;
     top:6vw;
 }
-header h3{
+header em{
     position:absolute;
     left:15vw;
     top:12vw;
@@ -40,7 +40,7 @@ header h3{
 footer{
     background-color: black;
     color:white;
-    height:10vh;
+    height:10vw;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -50,4 +50,5 @@ footer{
     display:flex;
     width:300px;
 }
+
 
