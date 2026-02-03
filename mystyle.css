@@ -8,7 +8,7 @@ header{
     width:100vw;
     border:5px #F5F5F5 solid;
 }
-main h3{
+header h3{
     position:absolute;
     left:5vw;
     top:10vw;
