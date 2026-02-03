@@ -4,46 +4,44 @@
 }
 header{
     backgroud-color: black;
-    height:20%;
-    width:100%;
+    height:20vw;
+    width:100vw;
     border:5px #F5F5F5 solid;
 }
-a{
+nav a{
     text-decoration:none;
 }
-a:hover{
+nav a:hover{
     text-decoration:none: underline;
     color:#D3D3D3
 }
-header li{
+nav li{
     display:inline;
     margin-rught:4vw;
     border:1px solid #ACACAC;
     padding:5px 10px;
     cursor:pointer;
 }
-header ul{
+nav ul{
     position:absolute;
-    right:15%;
-    top:6%;
+    right:15vw;
+    top:6vw;
 }
-h1{
+header h1{
     position:absolute;
-    left:10%;
-    top:6%;
-    background-image:url(江浙学生同盟.jpg);
-    background-repeat:no-repeat;
-    background-position:absolute;
-    left:20%;
-    top:6%;
-    width:20%;
+    left:10vw;
+    top:6vw;
 }
-.foot{
+footer{
     background-color: black;
     color:white;
-    height:10%;
+    height:10vw;
     display:flex;
     justify-content:center;
     align-items:center;
-   font-size:30px;
+    font-size:30px;
+}
+.logo{
+    display:flex;
+    width:300px;
 }
