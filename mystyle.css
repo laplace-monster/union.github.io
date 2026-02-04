@@ -40,16 +40,17 @@ header em{
 footer{
     background-color: black;
     color:white;
-    height:30vw;
+    height:10vw;
     display:flex;
     justify-content:center;
     align-items:center;
-    font-size:15px;
+    font-size:30px;
 }
 .logo{
     display:flex;
     width:300px;
 }
+
 
 
 
