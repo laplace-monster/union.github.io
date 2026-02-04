@@ -3,7 +3,7 @@
     margin: 0;
 }
 header{
-    backgroud-color: black;
+    background-color: black;
     height:20vw;
     width:100vw;
     border:5px #F5F5F5 solid;
@@ -12,12 +12,12 @@ nav a{
     text-decoration:none;
     color:#D3D3D3;
 }
-/*nav a:hover{
-    text-decoration: underline;
-}*/
+nav a:hover{
+    color:white;
+}
 nav li{
     display:inline;
-    margin-right:4vw;
+    margin-right:5px;
     border:1px solid #ACACAC;
     padding:5px 10px;
     cursor:pointer;
@@ -31,11 +31,13 @@ header h1{
     position:absolute;
     left:10vw;
     top:6vw;
+    color: white;
 }
 header em{
     position:absolute;
     left:15vw;
     top:12vw;
+    color: white;
 }
 footer{
     background-color: black;
@@ -50,6 +52,7 @@ footer{
     display:flex;
     width:300px;
 }
+
 
 
 
