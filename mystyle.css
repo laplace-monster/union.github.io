@@ -11,6 +11,7 @@ header{
 nav a{
     text-decoration:none;
     color:#D3D3D3;
+    transition:all 0.3s ease;
 }
 nav a:hover{
     color:white;
@@ -21,15 +22,19 @@ nav li{
     border:1px solid #ACACAC;
     padding:5px 10px;
     cursor:pointer;
+    transition:all 0.3s ease;
 }
 nav li:hover{
-    background-color:#008000；
+    background-color:#008000;
     color:white;
 }
 nav ul{
     position:absolute;
     right:15vw;
     top:6vw;
+}
+main{
+    background-color: red;
 }
 header h1{
     position:absolute;
@@ -56,8 +61,6 @@ footer{
     display:flex;
     width:300px;
 }
-
-
 
 
 
