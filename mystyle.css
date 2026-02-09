@@ -6,7 +6,6 @@ header{
     background-color: black;
     height:20vw;
     width:100vw;
-    border:5px #F5F5F5 solid;
 }
 nav a{
     text-decoration:none;
@@ -61,6 +60,7 @@ footer{
     display:flex;
     width:300px;
 }
+
 
 
 
