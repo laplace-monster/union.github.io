@@ -47,6 +47,12 @@ header em{
     top:12vw;
     color: white;
 }
+header h2{
+    position:absolute;
+    left:15vw;
+    top:18vw;
+    color: white;
+}
 footer{
     background-color: black;
     color:white;
@@ -60,7 +66,6 @@ footer{
     display:flex;
     width:300px;
 }
-
 
 
 
